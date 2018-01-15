@@ -58,6 +58,7 @@ spotless {
 }
 
 repositories {
+    mavenLocal()
     mavenCentral()
 }
 
